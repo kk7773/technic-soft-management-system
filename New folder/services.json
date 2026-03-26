@@ -1,0 +1,521 @@
+[{
+  "_id": {
+    "$oid": "6523a851bc6c82342687525b"
+  },
+  "name": "Social media Standard Package",
+  "description": "2 Social Media Platforms\n400,000+ Monthly Impressions\n15 Creative Post\n10 Creative Stories\nStandard Account Manager\nFacebook & Instagram",
+  "mrp": 9999,
+  "gst": 18,
+  "discount": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1696835665862"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697009770539"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65255663fad065e1770c05fb"
+  },
+  "name": "Social Media Professional Package",
+  "description": "4 Social Media Platforms\n800,000+ Monthly Impressions\n20 Creative Post\n5 Reels / 15 stories\nProfessional Account Manager\nFacebook, Instagram, linkedin & Twitter",
+  "mrp": 19999,
+  "gst": 18,
+  "discount": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1696945763668"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697009802195"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "652649f51a5dddf5cbf6b33e"
+  },
+  "name": "Social Media Ultimate Package",
+  "description": "6 Social Media Platform\n1,600,000 + Monthly Impressions\n20 Creative Post\n10 Reels / 20 Stories\nUltimate Account Manager\nFacebook, Instagram, linkedin, Twitter, Youtube & Threads",
+  "mrp": 29999,
+  "gst": 18,
+  "discount": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1697008117776"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697009829676"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "652650c955fbb80d1ca2369d"
+  },
+  "name": "Google Business Profile Creation",
+  "description": "Creating Google Business Profile. and verification of Information with accurate location on google maps",
+  "mrp": 0,
+  "gst": 0,
+  "discount": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1697009865346"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697009865346"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "652650e655fbb80d1ca2369f"
+  },
+  "name": "Google Business Profile Optimization (one time)",
+  "description": "Optimizing Google Business Profile According to Business Requirments Updating it's Product/services on Google with Our Google Business Profile Checklist",
+  "mrp": 9999,
+  "gst": 18,
+  "discount": 10,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1697009894689"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697009894689"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "652650fd55fbb80d1ca236a1"
+  },
+  "name": "Google Business Profile Top 10 Monthly",
+  "description": "Optimizing Google Business On a Regular Basis with Keyword Research. A dedicated google Business profile Manager is assigned which will updtae the Profile According with Our Google Business Profile Checklist. This is a monthly service with a Commited time of atleast 6 Months For Best Results.",
+  "mrp": 4999,
+  "gst": 18,
+  "discount": 10,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1697009917526"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697009917526"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6526511355fbb80d1ca236a3"
+  },
+  "name": "Google Business Profile top 3 Monthly",
+  "description": "Optimizing Google Business On a Regular Basis with Keyword Research. A dedicated google Business profile Manager who is Google Certified is assigned which will updtae the Profile According with Our Google Business Profile Checklist. This is a monthly service with a Commited time of atleast 3 Months For Best Results.",
+  "mrp": 9999,
+  "gst": 18,
+  "discount": 10,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1697009939381"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697009939381"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6530e2d17d3f27f71fc144fc"
+  },
+  "name": "Meta Ads Handling",
+  "description": "A dedicated Meta Ads Manager will be assigned to manage your Meta Ads. which will create and run Ads based on Your requirement. Ads Such As lead generation/ Awareness.",
+  "mrp": 9999,
+  "gst": 18,
+  "discount": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1697702609859"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697702609859"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6530e30f7d3f27f71fc14502"
+  },
+  "name": "Website Wordpress (Basic)",
+  "description": "A Basic Wordpress Website will be Provided.Domain,Hosting, SSL and Development Charges are included into this Package",
+  "mrp": 9999,
+  "gst": 18,
+  "discount": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1697702671524"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697702671524"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6530e3497d3f27f71fc14504"
+  },
+  "name": "Website Shopify (Ecommerce)",
+  "description": "A Shopify  Website will be Created from our end and store setup will be done.Including Payment gateway Integration upto 25 Products will be Updated. If more products are Required to be updated it will be charged Accordingly, Premium themes will be chargable from clients end as well as the Shopify costiing.",
+  "mrp": 24999,
+  "gst": 18,
+  "discount": 10,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1697702729257"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697702729257"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6530e3717d3f27f71fc14506"
+  },
+  "name": "Website Wix",
+  "description": "A WIX Website will be Created from our end and store setup will be done.Including Payment gateway Integration upto 25 Products will be Updated. If more products are Required to be updated it will be charged Accordingly, Premium themes will be chargable from clients end as well as the wix costiing.",
+  "mrp": 9999,
+  "gst": 18,
+  "discount": 10,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1697702769102"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697702769102"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6530e4947d3f27f71fc14527"
+  },
+  "name": "Website Custom coded",
+  "description": "A Custom Website will be created according to the clients need",
+  "mrp": 49999,
+  "gst": 18,
+  "discount": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1697703060773"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697703060773"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6530e4d57d3f27f71fc14529"
+  },
+  "name": "Video Editing",
+  "description": "Video editing for Raw Videos given by Clients or using Stock Footage.",
+  "mrp": 2000,
+  "gst": 18,
+  "discount": 10,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1697703125371"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697703125371"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6530e4fa7d3f27f71fc1452b"
+  },
+  "name": "Google 360 Shoot Interior",
+  "description": "Doing google 360 Photo shoot and video shoot with accurate GPS Location using Insta 360 X3 Camera",
+  "mrp": 4999,
+  "gst": 18,
+  "discount": 10,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1697703162247"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697703162247"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6530e55c7d3f27f71fc14531"
+  },
+  "name": "Animated 2-d Videos",
+  "description": "Creating 2-D Animated Videos 4000 Rupess/ 30 sec. Including Audio and Edit .",
+  "mrp": 4000,
+  "gst": 18,
+  "discount": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1697703260213"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697703260213"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6530e5717d3f27f71fc14533"
+  },
+  "name": "Product Mockups",
+  "description": "Creating product Mockups High Quailty 2D Images for Products/Packages",
+  "mrp": 1000,
+  "gst": 18,
+  "discount": 10,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1697703281952"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697703281952"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6530e5877d3f27f71fc14535"
+  },
+  "name": "Product Shoot (one Day)",
+  "description": "Shoot of Product /Day Including Camera Lights and team",
+  "mrp": 10000,
+  "gst": 18,
+  "discount": 10,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1697703303194"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697703303194"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6530e59e7d3f27f71fc14537"
+  },
+  "name": "Google Merchant Product Verification",
+  "description": "Google Merchant Account Store setup and Product verification 500 Rupess/ Product",
+  "mrp": 500,
+  "gst": 18,
+  "discount": 10,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1697703326490"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697703326490"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6530e5b27d3f27f71fc14539"
+  },
+  "name": "Landing Page Creation",
+  "description": "Creating a Landing Page On custom domain.with Payment Gateway Integration.",
+  "mrp": 5000,
+  "gst": 18,
+  "discount": 10,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1697703346548"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697703777761"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6530e5fa7d3f27f71fc1453b"
+  },
+  "name": "Full Performance Marketing ( Google & Meta )  + Basic Social Media Management (Without reels)",
+  "description": "not available",
+  "mrp": 29999,
+  "gst": 18,
+  "discount": 10,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1697703418431"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697703418431"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6530e6547d3f27f71fc1453d"
+  },
+  "name": "Google 360 Shoot Exterior",
+  "description": "Doing google 360 Photo shoot and video shoot with accurate GPS Location using Insta 360 X3 Camera",
+  "mrp": 9999,
+  "gst": 18,
+  "discount": 10,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1697703508032"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697703508032"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6530e6a27d3f27f71fc1453f"
+  },
+  "name": "Full Performance Marketing ( Google & Meta )  + Basic Social Media Management (With Reels & Video ads)",
+  "description": "not available",
+  "mrp": 35999,
+  "gst": 18,
+  "discount": 10,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1697703586655"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697703586655"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6530e6c27d3f27f71fc14541"
+  },
+  "name": "Digital Business Card",
+  "description": "Digital Businesss With NfC with Lifetime support will be Provided",
+  "mrp": 1999,
+  "gst": 18,
+  "discount": 10,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1697703618726"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697703618726"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6530e6d87d3f27f71fc14543"
+  },
+  "name": "Digital Business Card Replacement",
+  "description": "NFC Card replacement",
+  "mrp": 499,
+  "gst": 18,
+  "discount": 10,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1697703640666"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697703640666"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6530e6f37d3f27f71fc14545"
+  },
+  "name": "Digital Business Card Free",
+  "description": "A Free Digital Business Card with Baisc Features",
+  "mrp": 0,
+  "gst": 18,
+  "discount": 10,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1697703667851"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1697703667851"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65d89bb73650ca4f7dbf8c02"
+  },
+  "name": "Logo Creation Basic",
+  "description": "Brand Representation With Logo",
+  "mrp": 3000,
+  "gst": 18,
+  "discount": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1708694455305"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1708694455305"
+    }
+  },
+  "__v": 0
+}]

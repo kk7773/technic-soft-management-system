@@ -1,0 +1,173 @@
+[{
+  "_id": {
+    "$oid": "6523a7edbc6c823426875254"
+  },
+  "name": "ValueX Digital",
+  "username": "vxd",
+  "password": "sha1$c70ce888c31c$1$7b24c0c2fe2ad8238e02e72cb5e0061856c4171f",
+  "permission": [
+    "super-admin"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1696835565060"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1708930368562"
+    }
+  },
+  "__v": 0,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTIzYTdlZGJjNmM4MjM0MjY4NzUyNTQiLCJpYXQiOjE3MDg5MzAzNjh9.XOZxtK7TmWhFZ4gGSDT3q9unKzpdGnKVSOjNMQ73DRE",
+  "brandInfo": {
+    "$oid": "651d17316cc20cfe427bf61f"
+  }
+},{
+  "_id": {
+    "$oid": "6523d0613b1c7e663016d6d0"
+  },
+  "name": "Krishan Kumar",
+  "username": "VXD0004",
+  "password": "sha1$89e422849bef$1$448ecbc69113aaee893f39e7ec6ae98e65461b02",
+  "permission": [
+    "proposal"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1696845921095"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1696859649322"
+    }
+  },
+  "__v": 0,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTIzZDA2MTNiMWM3ZTY2MzAxNmQ2ZDAiLCJpYXQiOjE2OTY4NTk2NDl9.RVeqYFUB5A_5f7_BPFMPnl3yOXabNIl6SOKml8vvIHA"
+},{
+  "_id": {
+    "$oid": "65253a276f9936d1b2041109"
+  },
+  "name": "ValueX Digital",
+  "username": "vxd-indore",
+  "password": "sha1$c70ce888c31c$1$7b24c0c2fe2ad8238e02e72cb5e0061856c4171f",
+  "permission": [
+    "super-admin"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1696835565060"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1703348587590"
+    }
+  },
+  "__v": 0,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTI1M2EyNzZmOTkzNmQxYjIwNDExMDkiLCJpYXQiOjE3MDMzNDg1ODd9.yM5L7XEzOI8FsRzfIVgHMnMkoqOqJHyK2IBN8LQqCiA",
+  "brandInfo": {
+    "$oid": "65253a386f9936d1b204110b"
+  }
+},{
+  "_id": {
+    "$oid": "652542e8fad065e1770c05d4"
+  },
+  "name": "Saurabh Kumar",
+  "username": "saurabh@vxd.digital",
+  "password": "sha1$0e4940dacbcb$1$b82d8528bb0397b8443f057f0bcd9ba2975dc4ac",
+  "permission": [
+    "proposal"
+  ],
+  "brandInfo": {
+    "$oid": "651d17316cc20cfe427bf61f"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1696940776246"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1699429366970"
+    }
+  },
+  "__v": 0,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTI1NDJlOGZhZDA2NWUxNzcwYzA1ZDQiLCJpYXQiOjE2OTk0MjkzNjZ9.a2zxlQKFg2PoHjyy2__yIiQHYtkZIcJsNX6z0MVvrPA"
+},{
+  "_id": {
+    "$oid": "65255741fad065e1770c0603"
+  },
+  "name": "Jeevan",
+  "username": "jeevan@vxd.digital",
+  "password": "sha1$605fc78e50f2$1$799ec6bafeb5233064242f95019df85efb266ff3",
+  "permission": [
+    "proposal"
+  ],
+  "brandInfo": {
+    "$oid": "651d17316cc20cfe427bf61f"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1696945985471"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1699270642747"
+    }
+  },
+  "__v": 0,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTI1NTc0MWZhZDA2NWUxNzcwYzA2MDMiLCJpYXQiOjE2OTkyNzA2NDJ9.TiSZK-plKOBrsAIRujg4CZObqZ6MLRGQeYCMZmmRPs4"
+},{
+  "_id": {
+    "$oid": "65255754fad065e1770c0606"
+  },
+  "name": "Mukul",
+  "username": "mukul@vxd.digital",
+  "password": "sha1$dceb4306a161$1$9338e34f00d001b5469d81689afdf5c6bb7fef1b",
+  "permission": [
+    "proposal"
+  ],
+  "brandInfo": {
+    "$oid": "651d17316cc20cfe427bf61f"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1696946004257"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1709716717495"
+    }
+  },
+  "__v": 0,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTI1NTc1NGZhZDA2NWUxNzcwYzA2MDYiLCJpYXQiOjE3MDk3MTY3MTd9.uIyTR8av1SfytznRnBlYqkBGhhR7u21lait7DrmkGuc"
+},{
+  "_id": {
+    "$oid": "654352683650ca4f7dbf8a88"
+  },
+  "name": "Utkarsh Shrivastava",
+  "username": "utkarsh",
+  "password": "sha1$6642dbdd63ba$1$7e4240f05a2662ecfedd9bbe7d5e18485fe10664",
+  "permission": [
+    "proposal"
+  ],
+  "brandInfo": {
+    "$oid": "651d17316cc20cfe427bf61f"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1698910824836"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1698910849230"
+    }
+  },
+  "__v": 0,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTQzNTI2ODM2NTBjYTRmN2RiZjhhODgiLCJpYXQiOjE2OTg5MTA4NDl9.h8x2iMQe7_2ENbScKnrSM8WktucKm9WPw4Rwu6eQ2Oo"
+}]

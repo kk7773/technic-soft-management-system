@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "651d17316cc20cfe427bf61f"
+  },
+  "name": "vxd bnjghj jklo",
+  "number": {
+    "$numberLong": "1234567567567657"
+  },
+  "email": "dfs",
+  "companyName": "vxd",
+  "createdAt": {
+    "$date": "2023-10-04T07:41:37.894Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-04T08:47:35.227Z"
+  },
+  "__v": 0,
+  "address": "bbn jhkhk"
+}]
