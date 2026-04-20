@@ -2,8 +2,8 @@ import axios from "axios";
 
 const axiosURL = axios.create({
     // baseURL:"http://192.168.1.20:3000"
-     baseURL: "http://localhost:3001"
-    //baseURL:"https://www.management.thevxd.com"
+     //baseURL: "http://localhost:3001"
+    baseURL:"https://technic-soft-management-system.netlify.app/"
 });
 
 export default axiosURL
